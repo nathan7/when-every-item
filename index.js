@@ -1,5 +1,5 @@
 var Promise = require('promise')
-module.exports = function whenEvery(promises) {
+module.exports = function whenEveryItem(promises) {
   return new Promise(function(resolve, reject) {
     if (!promises.length)
       return resolve([])

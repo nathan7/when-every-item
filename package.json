@@ -1,11 +1,11 @@
 {
-  "name": "when-every",
+  "name": "when-every-item",
   "version": "1.0.0",
   "description": "promise aggregation",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nathan7/when-every.git"
+    "url": "git://github.com/nathan7/when-every-item.git"
   },
   "keywords": [
     "promise"
