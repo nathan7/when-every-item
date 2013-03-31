@@ -7,6 +7,10 @@
 
     $ component install nathan7/when-every-item
 
+  or
+
+    $ npm install when-every-item
+
 ## API
 
 ### whenEveryItem :: [Promise a] -> Promise [a]
