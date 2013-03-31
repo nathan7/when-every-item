@@ -1,0 +1,17 @@
+{
+  "name": "when-every",
+  "repo": "nathan7/when-every",
+  "description": "promise aggregation",
+  "version": "1.0.0",
+  "keywords": [
+    "promise"
+  ],
+  "dependencies": {
+    "then/promise": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

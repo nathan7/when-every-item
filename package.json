@@ -1,0 +1,18 @@
+{
+  "name": "when-every",
+  "version": "1.0.0",
+  "description": "promise aggregation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/when-every.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "~2.0.0"
+  }
+}
