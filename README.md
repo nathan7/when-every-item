@@ -1,7 +1,7 @@
 
 # when-every-item
 
-  Promise aggregation.
+  promise aggregation for arrays
 
 ## Installation
 

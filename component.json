@@ -1,7 +1,7 @@
 {
   "name": "when-every-item",
   "repo": "nathan7/when-every-item",
-  "description": "promise aggregation",
+  "description": "promise aggregation for arrays",
   "version": "1.0.0",
   "keywords": [
     "promise"
