@@ -9,7 +9,10 @@ module.exports = function whenEveryItem(promises) {
     for (var i = 0; i < len; i++)
       promises[i].then(handler(i), reject)
     function handler(i) {
+      var called = false
       return function(result) {
+        if (called) return
+        called = true
         results[i] = result
         if (++done === promises.length)
           resolve(results)
