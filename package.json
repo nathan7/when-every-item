@@ -1,6 +1,6 @@
 {
   "name": "when-every-item",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "promise aggregation for arrays",
   "main": "index.js",
   "repository": {
