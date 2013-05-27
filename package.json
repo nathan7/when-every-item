@@ -13,6 +13,7 @@
   "author": "Nathan Zadoks",
   "license": "MIT",
   "dependencies": {
-    "promise": "~2.0.0"
+    "promise": "~2.0.0",
+    "is-promise": "~1.0.0"
   }
 }

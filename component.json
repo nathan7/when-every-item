@@ -7,7 +7,8 @@
     "promise"
   ],
   "dependencies": {
-    "then/promise": "*"
+    "then/promise": "*",
+    "then/is-promise": "*"
   },
   "development": {},
   "license": "MIT",
