@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nathan7/when-every-item.png?branch=feature/extensions)](https://travis-ci.org/nathan7/when-every-item)
 
 # when-every-item
 
