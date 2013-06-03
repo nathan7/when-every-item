@@ -15,5 +15,11 @@
   "dependencies": {
     "promise": "~2.0.0",
     "is-promise": "~1.0.0"
+  },
+  "devDependencies": {
+    "crazy-promise": "~1.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
   }
 }
